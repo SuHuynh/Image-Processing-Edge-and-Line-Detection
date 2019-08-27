@@ -6,12 +6,19 @@
 
 ## Results
 
-![]()
+![](https://github.com/SuHuynh/Image-Processing-Edge-and-Line-Detection/blob/master/imgs/results%20of%20Edge.PNG)
 
 ## Line detection 
 
 -Using Hough Transform
 
-## Results
+## Hough desciption
+![](https://github.com/SuHuynh/Image-Processing-Edge-and-Line-Detection/blob/master/imgs/Hough%20desciption.PNG)
+
+## Results 
+
+![](https://github.com/SuHuynh/Image-Processing-Edge-and-Line-Detection/blob/master/imgs/Hough_result_2.PNG)
+
+![] (https://github.com/SuHuynh/Image-Processing-Edge-and-Line-Detection/blob/master/imgs/Hough_result.PNG)
 
 
