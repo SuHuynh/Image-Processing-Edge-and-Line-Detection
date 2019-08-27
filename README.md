@@ -19,6 +19,6 @@
 
 ![](https://github.com/SuHuynh/Image-Processing-Edge-and-Line-Detection/blob/master/imgs/Hough_result_2.PNG)
 
-![] (https://github.com/SuHuynh/Image-Processing-Edge-and-Line-Detection/blob/master/imgs/Hough_result.PNG)
+![](https://github.com/SuHuynh/Image-Processing-Edge-and-Line-Detection/blob/master/imgs/Hough_result.PNG)
 
 
